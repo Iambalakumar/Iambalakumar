@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Balakumar</h1>
 <h3 align="center">A Tech Enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Image processing**
+- 🌱 I'm Currently learning **Full Stack Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
